@@ -14,7 +14,7 @@ As the first MBAn cohort, with almost every single one of us new to Ann Arbor an
 
 Our book will include different sections (listed below) explaining the transition to Ann Arbor, unspoken as well as established rules for navigating Ross, and other pieces of information that our team members have found useful in the last few weeks. We will accomplish this goal by following the principles outlined in our team charter.
 
-Preliminary Table of Contents
+Preliminary Table of Contents:
 
 * Intro to Ross/MBAn
 * Ross administration
@@ -40,7 +40,7 @@ Preliminary Table of Contents
 * Transportation
     + Busses, where to park, biking, preparing for the winter, etc.
 
-Areas to explore/further questions/Next steps
+Areas to explore/further questions/Next steps:
 
 * Interview fellow classmates as well as professors
 * Trying out new restaurants and establishments around Ross
