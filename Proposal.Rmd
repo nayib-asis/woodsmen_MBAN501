@@ -1,16 +1,18 @@
 ---
-title: "Proposal"
-author: "Anthony Oliveri"
+title: "MBAn 501 Woodsmen Proposal"
+author: "The Woodsmen"
 date: '2022-07-20'
 output: html_document
 ---
-MBAn Student’s Guide to Ross and Ann Arbor
-~Live, Laugh, Ross~
+**MBAn Student’s Guide to Ross and Ann Arbor**
 
-Situation and Proposed Solution
+*~Live, Laugh, Ross~*
 
-	As the first MBAn cohort, with almost every single one of us new to Ann Arbor and the Ross School of Business, we have faced challenges trying to adapt to a new environment. As a result, our group is seeking to help future generations of MBAn’s by creating a detailed guide on Ross and an introduction to the uncontrollable world of business.
-	Our book will include different sections (listed below) explaining the transition to Ann Arbor, unspoken as well as established rules for navigating Ross, and other pieces of information that our team members have found useful in the last few weeks. We will accomplish this goal by following the principles outlined in our team charter.
+Situation and Proposed Solution:
+
+As the first MBAn cohort, with almost every single one of us new to Ann Arbor and the Ross School of Business, we have faced challenges trying to adapt to a new environment. As a result, our group is seeking to help future generations of MBAn’s by creating a detailed guide on Ross and an introduction to the uncontrollable world of business.
+
+Our book will include different sections (listed below) explaining the transition to Ann Arbor, unspoken as well as established rules for navigating Ross, and other pieces of information that our team members have found useful in the last few weeks. We will accomplish this goal by following the principles outlined in our team charter.
 
 Preliminary Table of Contents
 Intro to Ross/MBAn
