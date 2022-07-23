@@ -1,0 +1,25 @@
+---
+title: "About Us"
+output: html_document
+date: "2022-07-23"
+---
+
+# About us
+
+Get to know the Woodsmen, and what we're all about!
+
+## Who is Tom Davis?
+
+**"Hello, World!"**
+
+My Name is Tom Davis, I'm from Birmingham, MI, and I am a graduate student at the Ross School of Business working towards my Master of Business Analytics. I came to this program because I love *music*. That might seem strange given we're not playing any instruments, but I think you'd be surprised how similar coding and chords can be.
+
+Music, Business, and Software all require
+
+- *Creativity*
+- *Problem Solving*
+- and *Language Skills*
+
+In addition, these three things are absolutely **fundamental** to our daily lives. We all utilize software, listen to music, and participate in the uncontrollable world of business every day. My end goal? Live at this intersection to help deliver listeners more of the music they love!
+
+![](https://i0.wp.com/haulixdaily.com/wp-content/uploads/2019/05/Music-Business-Success.jpg?w=1920&ssl=1)
