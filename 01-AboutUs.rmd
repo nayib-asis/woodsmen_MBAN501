@@ -32,8 +32,9 @@ My name is Alex Finci and I am a Master of Business Analytics student in the Ros
 
 I was born in Los Angeles, where I lived for the first ten years of my life. In 2006, my family moved just north of San Francisco, where my parents and older sister currently reside. I received my undergraduate degree at the University of Wisconsin-Madison, where I majored in Economics. I enjoy being active and playing sports, including basketball, tennis and golf. I am avid fan of Los Angeles' sports teams. I also like to hike and travel.
 
+
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
-knitr::include_graphics("/Users/alexfinci/Documents/woodsmen_MBAN501/Test Bookdown/IMG_4355.JPG")
+knitr::include_graphics("IMG_4355.JPG")
 ```
 
 #Who is Anthony Oliveri?
