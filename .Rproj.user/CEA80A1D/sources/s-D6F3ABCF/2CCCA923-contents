@@ -1,0 +1,45 @@
+---
+title: "AboutMe"
+author: "Alex Finci"
+date: '2022-07-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**About Me**
+
+My name is Alex Finci and I am a Master of Business Analytics student in the Ross School of Business at the University of Michigan.
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+knitr::include_graphics("/Users/alexfinci/Desktop/header.jpeg")
+```
+
+**Background**
+
+I was born in Los Angeles, where I lived for the first ten years of my life. In 2006, my family moved just north of San Francisco, where my parents and older sister currently reside. 
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+knitr::include_graphics("/Users/alexfinci/Desktop/10498649034_642661b34e_b.jpg")
+```
+
+**Qualifications**
+
+I received my undergraduate degree at the University of Wisconsin-Madison, where I majored in Economics. After graduating from Wisconsin, I worked as a Data Analyst for U.S. Bank in Chicago as part of their CDO department. 
+
+LinkedIn: https://www.linkedin.com/in/alexander-finci-8087a7111/
+
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+knitr::include_graphics("/Users/alexfinci/Downloads/IMG_4355.JPG")
+```
+
+**Hobbies**
+
+I enjoy being active and playing sports, including basketball, tennis and golf. I am avid fan of all Los Angeles sports teams. I also like to hike and travel.
+
+
+
+
