@@ -36,4 +36,31 @@ I was born in Los Angeles, where I lived for the first ten years of my life. In 
 knitr::include_graphics("/Users/alexfinci/Documents/woodsmen_MBAN501/Test Bookdown/IMG_4355.JPG")
 ```
 
+#Who is Anthony Oliveri?
 
+I am from Long Island, New York and I currently live in Ann Arbor, Michigan as I am a Masters student at UM-Ann Arbor. I moved to Michigan in 2018 for my undergraduate education!
+
+![Me, 2022](https://media-exp1.licdn.com/dms/image/C5603AQGbQR9eOAFc9w/profile-displayphoto-shrink_400_400/0/1657558637851?e=1663200000&v=beta&t=Aqv-pWXUQxdrTJu1TT4ZM-Qo_b1ItTenlLsaFO-FHWs)
+
+**Credentials**
+
+I graduated with a  B.A. in Economics from Michigan in 2022 and now I am a  Master of Business Analytics student at the University of Michigan - Ross School of Business. Go Blue!
+
+**Goals**
+I am passionate about data and I hope to learn how to contribute significant analyses in the future.
+
+**Hobbies**
+
+- All Sports! I watch Basketball, Baseball, and Football, but I will play almost any sport! My favorites to play are basketball, baseball, and volleyball.
+
+- Video Games
+
+- Hiking, Traveling, and Exploring
+
+**Links**
+
+- [LinkedIn](https://www.linkedin.com/in/anthony-oliveri1/)
+
+- [Facebook](https://www.facebook.com/anthony.oliveri.6/)
+
+- [Instagram](https://www.instagram.com/aoliveri8/)
