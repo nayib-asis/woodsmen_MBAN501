@@ -1,8 +1,2 @@
----
-title: "02 - Intro to Ross/MBAn"
-author: "Anthony Oliveri"
-date: '2022-07-25'
-output: html_document
----
 
 # Intro to Ross MBAn

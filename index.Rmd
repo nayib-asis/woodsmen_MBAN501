@@ -1,5 +1,5 @@
 --- 
-title: "Woodsmen Test Book"
+title: "Woodsmen Book"
 author: "Alex Finci, Anthony Oliveri, Nayib Asis, Runfan Yan, and Tom Davis"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

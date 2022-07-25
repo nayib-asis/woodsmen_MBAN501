@@ -1,7 +1,2 @@
----
-title: "07 - Introduction to the CDO"
-author: "Anthony Oliveri"
-date: '2022-07-25'
-output: html_document
----
+
 # Intro to the CDO

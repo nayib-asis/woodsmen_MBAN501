@@ -1,9 +1,4 @@
----
-title: "04 - Places to Study"
-author: "Anthony Oliveri"
-date: '2022-07-25'
-output: html_document
----
+
 # Places to Study
 
 ## Booking Rooms
