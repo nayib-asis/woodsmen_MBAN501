@@ -1,0 +1,7 @@
+---
+title: "Preparing for Group Projects and Presentations"
+output: html_document
+date: "2022-07-25"
+---
+
+# Preparing for Group Projects and Presentations

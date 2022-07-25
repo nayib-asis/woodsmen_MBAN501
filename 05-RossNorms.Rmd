@@ -1,0 +1,11 @@
+---
+title: "05 - Ross Norms"
+author: "Anthony Oliveri"
+date: '2022-07-25'
+output: html_document
+---
+# Norms
+
+## Dress Code
+
+## Timing of Classes
