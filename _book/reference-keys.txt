@@ -17,3 +17,12 @@ runfan-yan-comment
 including-plots
 who-is-anthony-oliveri
 who-is-nayib-asis-elizalde
+<<<<<<< HEAD
+=======
+personal-information
+education-background
+internship-experience
+hobbies
+fun-fact-about-me
+who-is-runfan-yan
+>>>>>>> ce6e4dd490bbeaa9779ababd828925d925780619
