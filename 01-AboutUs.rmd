@@ -37,7 +37,7 @@ I was born in Los Angeles, where I lived for the first ten years of my life. In 
 knitr::include_graphics("IMG_4355.JPG")
 ```
 
-#Who is Anthony Oliveri?
+## Who is Anthony Oliveri?
 
 I am from Long Island, New York and I currently live in Ann Arbor, Michigan as I am a Masters student at UM-Ann Arbor. I moved to Michigan in 2018 for my undergraduate education!
 
@@ -66,7 +66,7 @@ I am passionate about data and I hope to learn how to contribute significant ana
 
 - [Instagram](https://www.instagram.com/aoliveri8/)
 
-#Who is Nayib Asis Elizalde?
+## Who is Nayib Asis Elizalde?
 
 I was born and raised in *Monclova, Mexico*, where I lived with my parents and older sister until I turned 15. I then moved to the United States for school and have been here since (9th year)! I currently live in *Ann Arbor, MI*.
 
