@@ -1,3 +1,50 @@
+--- 
+title: "Woodsmen Test Book"
+author: "Alex Finci, Anthony Oliveri, Nayib Asis, Runfan Yan, and Tom Davis"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+--- 
+title: "Woodsmen Test Book"
+author: "Alex Finci, Anthony Oliveri, Nayib Asis, Runfan Yan, and Tom Davis"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Intro
+
+**MBAn Student’s Guide to Ross and Ann Arbor**
+
+*~Live, Laugh, Ross~*
+
+Situation and Proposed Solution:
+
+As the first MBAn cohort, with almost every single one of us new to Ann Arbor and the Ross School of Business, we have faced challenges trying to adapt to a new environment. As a result, our group is seeking to help future generations of MBAn’s by creating a detailed guide on Ross and an introduction to the uncontrollable world of business.
+
+Our book will include different sections (listed below) explaining the transition to Ann Arbor, unspoken as well as established rules for navigating Ross, and other pieces of information that our team members have found useful in the last few weeks. We will accomplish this goal by following the principles outlined in our team charter.
+
+<!--chapter:end:index.Rmd-->
+
 ---
 title: "About Us"
 output: html_document
@@ -32,12 +79,11 @@ My name is Alex Finci and I am a Master of Business Analytics student in the Ros
 
 I was born in Los Angeles, where I lived for the first ten years of my life. In 2006, my family moved just north of San Francisco, where my parents and older sister currently reside. I received my undergraduate degree at the University of Wisconsin-Madison, where I majored in Economics. I enjoy being active and playing sports, including basketball, tennis and golf. I am avid fan of Los Angeles' sports teams. I also like to hike and travel.
 
-
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
-knitr::include_graphics("IMG_4355.JPG")
+knitr::include_graphics("/Users/alexfinci/Documents/woodsmen_MBAN501/Test Bookdown/IMG_4355.JPG")
 ```
 
-## Who is Anthony Oliveri?
+##Who is Anthony Oliveri?
 
 I am from Long Island, New York and I currently live in Ann Arbor, Michigan as I am a Masters student at UM-Ann Arbor. I moved to Michigan in 2018 for my undergraduate education!
 
@@ -65,33 +111,6 @@ I am passionate about data and I hope to learn how to contribute significant ana
 - [Facebook](https://www.facebook.com/anthony.oliveri.6/)
 
 - [Instagram](https://www.instagram.com/aoliveri8/)
-
-## Who is Nayib Asis Elizalde?
-
-I was born and raised in *Monclova, Mexico*, where I lived with my parents and older sister until I turned 15. I then moved to the United States for school and have been here since (9th year)! I currently live in *Ann Arbor, MI*.
-
-I graduated from *Dartmouth College* in 2020 (via Zoom) where I majored in Political Science focusing on Latin American politics. While there, I was part of different admissions and orientation groups, a Paganucci Fellow at the Tuck School of Business, and part of the executive board of my fraternity.
-
-After college, I obtained my Master of Management with distinction from the *Ross School of Business* at the *University of Michigan*. I am currently pursuing a Master of Business Analytics also from Ross, and I served the program's student association as a Students Relations co-chair.
-
-**Career Interests**
-
-In the past, I have worked on different projects with Latin American companies seeking to tackle complex social issues through innovation. As a Paganucci Fellow working with Innova Schools in Peru and an intern at Dalberg Advisors doing consulting work in Mexico and Colombia, I learned about problem-solving, the role that businesses play in today’s world, and how integrating new technology can lead to ground-breaking solutions.
-
-In the future, I hope to pursue a career that allows me to have some sort of impact in the lives of others.
-
-
-**Other Interests and Fun Facts**
-
-- Going on runs (I am trying to run a half marathon this year)
-
-- Traveling to new places (really excited for for a trip to Florence this year)
-
-- Reading (I read 30 books in 2021)
-
-- Having fun with friends
-
-- My favorite quote: "If you don't have a seat at the table, bring a folding chair."
 
 ##Who is Runfan Yan?
 
@@ -138,3 +157,38 @@ My name is Runfan Yan. I am from Ningbo, China and currently live in Ann Arbor a
 - I have been playing the piano since I was four years old
 
 - I once raised two parrots, but unfortunately they flew away inadvertently
+
+<!--chapter:end:01-AboutUs.rmd-->
+
+---
+title: "Ross Administration"
+output: html_document
+date: "2022-07-23"
+---
+
+# Ross Administration
+
+## Buildings
+
+## Program Directors, Deans, and Professors
+
+<!--chapter:end:02-RossAdministration.Rmd-->
+
+---
+title: "Places to Study"
+output: html_document
+date: "2022-07-23"
+---
+
+# Places to Study
+
+## Booking Rooms
+
+## Interview Rooms
+
+## Libraries
+
+## Winter Garden
+
+<!--chapter:end:03-PlacesToStudy.Rmd-->
+
