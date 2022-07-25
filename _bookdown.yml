@@ -2,3 +2,5 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
+    rmd_files: ["index.Rmd", "01-AboutUs.Rmd", "02-RossAdministration.Rmd", "03-PlacesToStudy.Rmd"]
+    output_dir: "docs"
