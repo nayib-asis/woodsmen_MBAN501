@@ -93,27 +93,27 @@ In the future, I hope to pursue a career that allows me to have some sort of imp
 
 - My favorite quote: "If you don't have a seat at the table, bring a folding chair."
 
-##Who is Runfan Yan?
+## Who is Runfan Yan?
 
 My name is Runfan Yan. I am from Ningbo, China and currently live in Ann Arbor as a master student in University of Michigan.
 
 ![](Runfan_Photo.jpg)
 
-# Personal Information
+**Personal Information**
 
 - Mobile: 971-717-1702
 
 - Email: runfanyan@gmail.com
 
-# Education Background
+**Education Background**
 
-**University of Denver**, BS in Business Administration, Major: Business Analytics, Minor: Mathematics, 09/2017 - 06/2021
+University of Denver, BS in Business Administration, Major: Business Analytics, Minor: Mathematics, 09/2017 - 06/2021
 
-**University of Michigan**, Master of Business Analytics, 06/2022 - 04/2023
+University of Michigan, Master of Business Analytics, 06/2022 - 04/2023
 
-# Internship Experience
+**Internship Experience**
 
-**KPMG China**, Tax Management Consulting Intern, 08/2021-11/2021
+KPMG China, Tax Management Consulting Intern, 08/2021-11/2021
 
 - Assisted to draft the solutions for incentive and tax consulting inquiry for clients and complied relevant materials
 
@@ -121,7 +121,7 @@ My name is Runfan Yan. I am from Ningbo, China and currently live in Ann Arbor a
 
 - Reviewed clients’ materials for the application of digitalization and intelligence demonstration; summarized the operation conditions to fulfill the requirement of declaration report   
 
-# Hobbies
+**Hobbies**
 
 - Playing Badminton
 
@@ -133,7 +133,7 @@ My name is Runfan Yan. I am from Ningbo, China and currently live in Ann Arbor a
 
 - Playing the piano
 
-# Fun fact about me
+**Fun fact about me**
 
 - I have been playing the piano since I was four years old
 
