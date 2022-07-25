@@ -1,4 +1,10 @@
 intro
+about-us
+who-is-tom-davis
+who-is-alex-finci
+who-is-anthony-oliveri
+who-is-nayib-asis-elizalde
+who-is-runfan-yan
 ross-administration
 buildings
 program-directors-deans-and-professors
@@ -7,22 +13,8 @@ booking-rooms
 interview-rooms
 libraries
 winter-garden
-about-us
-who-is-tom-davis
-who-is-alex-finci
 r-markdown
 alex-finci-comment
 tom-davis-comment
 runfan-yan-comment
 including-plots
-who-is-anthony-oliveri
-who-is-nayib-asis-elizalde
-<<<<<<< HEAD
-=======
-personal-information
-education-background
-internship-experience
-hobbies
-fun-fact-about-me
-who-is-runfan-yan
->>>>>>> ce6e4dd490bbeaa9779ababd828925d925780619
