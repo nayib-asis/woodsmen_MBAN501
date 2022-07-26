@@ -5,16 +5,38 @@ who-is-alex-finci
 who-is-anthony-oliveri
 who-is-nayib-asis-elizalde
 who-is-runfan-yan
+<<<<<<< HEAD
 ross-administration
 buildings
 program-directors-deans-and-professors
+=======
+intro-to-ross-mban
+ross-administration
+buildings
+professors-deans-and-program-directors
+>>>>>>> 7a47a5215cc66d33f1c9a091e63a3db1ba6468ea
 places-to-study
 booking-rooms
 interview-rooms
 libraries
+<<<<<<< HEAD
 winter-garden
 r-markdown
 alex-finci-comment
 tom-davis-comment
 runfan-yan-comment
 including-plots
+=======
+norms
+dress-code
+timing-of-classes
+classes-and-professors
+intro-to-the-cdo
+eating-at-ross
+uhs-and-health-services
+preparing-for-group-projects-and-presentations
+busses
+where-to-park
+biking
+preparing-for-winter
+>>>>>>> 7a47a5215cc66d33f1c9a091e63a3db1ba6468ea

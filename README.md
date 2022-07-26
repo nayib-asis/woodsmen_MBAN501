@@ -1,13 +1,9 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This repo was created by *Nayib, Anthony, Alex, Tom and Runfan* for our Project Management and Software Teams class. Together, we are working on creating a book using RMarkdown that contains information on transitioning to business school.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+You can see our published document by following this link: *https://nayib-asis.github.io/woodsmen_MBAN501/index.html*
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+Enjoy!
 
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+- The Woodsmen

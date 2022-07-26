@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  25 JUL 2022 15:19
 entering extended mode
  restricted \write18 enabled.
@@ -1296,3 +1297,7 @@ Here is how much of TeX's memory you used:
  58i,6n,117p,10400b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on _main.pdf (6 pages).
+=======
+
+! sh: xelatex: command not found
+>>>>>>> 7a47a5215cc66d33f1c9a091e63a3db1ba6468ea
