@@ -27,3 +27,11 @@ busses
 where-to-park
 biking
 preparing-for-winter
+impact
+guide-on-how-to-book-ross-study-and-interview-rooms
+ross-recruit
+guide-on-how-to-sign-up-for-coaching-appointments
+mprint
+guide-on-how-to-print
+canvas
+handshake
