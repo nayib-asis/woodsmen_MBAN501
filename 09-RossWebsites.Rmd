@@ -13,7 +13,7 @@ This website is exclusively for Ross students and it has a variety of functions:
 - Access a Ross alumni directory
 - Contains links to other websites like Ross Recruit (see below)
 
-### Guide on how to book Ross study and interview rooms:
+### How to book Ross study and interview rooms:
 
 1. Log into iMpact recruit and click the “Reserve a Room” on the right side of the screen
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
@@ -38,7 +38,7 @@ Link: https://michiganross.12twenty.com/dashboard
 
 This website is a career resource for Ross students exclusively. It allows students to apply to jobs for companies that recruit directly from Ross and sign up for informational sessions with said companies. Additionally, through this portal, students can sign up for appointments with coaches from the Career Development Office (CDO). You can sign up for appointments with peer coaches as well.
 
-### Guide on how to sign up for coaching appointments:
+### How to sign up for coaching appointments:
 
 1. Log into Ross recruit and click the “Appointments Tab” on the left side of the screen
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
@@ -63,7 +63,7 @@ Link: https://mprint.umich.edu
 
 This website allows students to print using any campus printer
 
-### Guide on how to print
+### How to print:
 
 1. Use the Mprint link and click on “Set a Destination” on the left side of the screen
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
