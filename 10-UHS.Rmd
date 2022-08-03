@@ -24,7 +24,9 @@ Services available:
 * Radiology
 * Specialty Clinics (e.g. Dermatology) Testing for HIV, STI, TB, etc. 
 
-Appointments: You can self-schedule your appointment 24/7 by logging into [www.myuofmhealth.org](www.myuofmhealth.org) and clicking on "visits" or calling 734-764-8320. 
+Link: https://www.myuofmhealth.org
+
+Appointments: You can self-schedule your appointment 24/7 by logging into link above and clicking on "visits" or calling 734-764-8320. 
 
 For any other questions check out their website: [uhs.umich.edu](uhs.umich.edu)
 
@@ -44,7 +46,7 @@ Services include:
 * Workshops and groups for support and learning new coping skills
 * Assessment of substance abuse patterns (ASAP) and eating patterns
 
-Appointments: You can schedule an appointment through their website: [caps.umich.edu/article/scheduling-appointment](caps.umich.edu/article/scheduling-appointment)
+Appointments: You can schedule an appointment through their website: https://caps.umich.edu/article/scheduling-appointment
 
 Urgent/Crisis Needs: Call CAPS Front Desk at 734-764-8312 or come into the office
 
