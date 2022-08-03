@@ -2,7 +2,20 @@
 # Transportation
 You may be trying to plan out your commute to Ross. Whether you are walking, driving, biking, or taking the bus, here are some helpful tips and resources for you!
 
+## Walking
+If you plan on walking to Ross, here is an approximate map of walking times to the Ross School of Business!
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
+knitr::include_graphics("walking_map.png")
+```
+
 ## Busses
+There are two types of buses you will encounter: The Michigan (school-run) "Blue Bus" and "TheRide", the Ann Arbor-Yspilanti wide bus system. Both of these buses can take you to the Ross School of Business!
+
+**Blue Buses**
+[Here](https://ltp.umich.edu/wp-content/uploads/university-bus-routes.pdf) is a detailed guide, created by the University, towards all University bus routes. For your commute, you will likely be taking either the Commuter North, towards North Campus, or the Commuter South, towards South campus! 
+
+**TheRide**
+If the University buses do not provide sufficient service for you, try TheRide! The Ann Arbor city bus is free for all students with just a swipe of your MCard. To plan out your trip, click [here](https://www.theride.org/maps-schedules/trip-planner)!
 
 ## Parking
 
@@ -35,3 +48,4 @@ knitr::include_graphics("biking_map1.png")
 ```
 
 ## Preparing for Winter
+*i will do this later*
