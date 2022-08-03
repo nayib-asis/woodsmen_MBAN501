@@ -13,24 +13,8 @@ This website is exclusively for Ross students and it has a variety of functions:
 - Access a Ross alumni directory
 - Contains links to other websites like Ross Recruit (see below)
 
-### How to book Ross study and interview rooms:
+In a previous chapter, we have a step-by-step guide on how to book a study room. Click [here](#Places to Study)
 
-1. Log into iMpact recruit and click the “Reserve a Room” on the right side of the screen
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
-knitr::include_graphics("IM_1.png")
-```
-2. Click on the circle for the day and building that you want to book your appointment for
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
-knitr::include_graphics("IM_2.png")
-```
-3. Click on the block with the starting time you want your reservation for
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
-knitr::include_graphics("IM_3.png")
-```
-4. Fill out the required information and click on “Reserve”
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
-knitr::include_graphics("IM_4.png")
-```
 
 ## Ross Recruit
 
