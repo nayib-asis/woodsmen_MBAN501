@@ -13,7 +13,7 @@ This website is exclusively for Ross students and it has a variety of functions:
 - Access a Ross alumni directory
 - Contains links to other websites like Ross Recruit (see below)
 
-In a previous chapter, we have a step-by-step guide on how to book a study room. Click [here](#Places to Study)
+In a previous chapter, we have a step-by-step guide on how to book a study room. Look at section 5.1 for more information.
 
 
 ## Ross Recruit
