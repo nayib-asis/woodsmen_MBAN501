@@ -5,4 +5,10 @@
 knitr::include_graphics("CDO.png")
 ```
 
-Ross Career Development Office (CDO) Serves all students enrolled in the Ross School of Business. For MBAn in summer, CDO offers sessions for students to learn different career skills such as interview and job research. Some of the sessions are tied to assignments for a business course. Moreover, CDO offers both in-person appointments and virtual appointments with specific career coach for MBAn to ask any career related questions. 
+Ross Career Development Office (CDO) Serves all students enrolled in the Ross School of Business. For MBAn in summer, CDO had a course in Canvas which contains a lot of information for MBAn students to find out. Moreover, CDO offers sessions for students to learn different career skills. Some of the sessions are tied to assignments for a business course. 
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '100%'}
+knitr::include_graphics("CDO_Sessions.png")
+```
+
+CDO offers both in-person appointments and virtual appointments with specific career coach for MBAn to ask any career related questions. For specific steps and websites to make appointment, please check section 10.2 Ross Recruit.
