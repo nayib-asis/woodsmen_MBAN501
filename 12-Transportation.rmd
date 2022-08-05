@@ -12,9 +12,11 @@ knitr::include_graphics("walking_map.png")
 There are two types of buses you will encounter: The Michigan (school-run) "Blue Bus" and "TheRide", the Ann Arbor-Yspilanti wide bus system. Both of these buses can take you to the Ross School of Business!
 
 **Blue Buses**
+
 [Here](https://ltp.umich.edu/wp-content/uploads/university-bus-routes.pdf) is a detailed guide, created by the University, towards all University bus routes. For your commute, you will likely be taking either the Commuter North, towards North Campus, or the Commuter South, towards South campus! 
 
 **TheRide**
+
 If the University buses do not provide sufficient service for you, try TheRide! The Ann Arbor city bus is free for all students with just a swipe of your MCard. To plan out your trip, click [here](https://www.theride.org/maps-schedules/trip-planner)!
 
 ## Parking
@@ -23,7 +25,9 @@ If you plan on driving to Ross, here's what you should know!
 
 **Permits**
 
-As a Graduate Student, you are eligible for a "Yellow/After Hours" Permit. This permit will allow you to park in all Yellow or Orange lots for all hours, and all Blue lots and structures from M-F 3pm - 5am and all day on weekends. Below is a map of all structures and lots around Ross, and [here is an interactive map](maps.studentlife.umich.edu/parking)! The nearest Yellow lots, W32 and W38, are roughly an 8 minute walk from Ross.
+As a Graduate Student, you are eligible for a "Yellow/After Hours" Permit. This permit will allow you to park in all Yellow or Orange lots for all hours, and all Blue lots and structures from M-F 3pm - 5am and all day on weekends. Below is a map of all structures and lots around Ross, and [here is an interactive map](https://maps.studentlife.umich.edu/parking)!
+
+The nearest Yellow lots, W32 and W38, are roughly an 8 minute walk from Ross.
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
 knitr::include_graphics("parking_map.png")
 ```
