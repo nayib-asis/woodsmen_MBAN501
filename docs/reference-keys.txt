@@ -20,6 +20,9 @@ timing-of-classes
 classes-and-professors
 intro-to-the-cdo
 eating-at-ross
+seigle-cafe
+starbucks
+maize-and-blue-delicatessen
 important-ross-websites
 impact
 ross-recruit

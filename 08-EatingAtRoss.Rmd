@@ -1,2 +1,42 @@
 
 # Eating at Ross
+
+Great options for a meal or a snack within walking distance of Ross
+
+## Seigle Cafe
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '60%'}
+knitr::include_graphics("siegel.jpg")
+```
+
+Quick and convenient cafeteria style restaurant located in the Ross Wintergarden. Great option for a quick meal in between classes. 
+
+Meal Options: 
+* Delicious Grill Items
+* Weekly Grill Specials
+* Grab-N-Go Sandwiches and Parfaits
+* Build Your Own Salad Bar
+* Cold Drinks, Coffee and Fresh Fruit
+* Assorted Snacks
+
+Also have online ordering here: [http://michiganross.aramarkcafe.com] (http://michiganross.aramarkcafe.com)
+
+## Starbucks
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '60%'}
+knitr::include_graphics("starbucks.jpg")
+```
+
+Located on the first floor next to the Wintergarden, Starbucks is always a great option for morning breakfast and a coffee. 
+
+## Maize and Blue Delicatessen
+
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '60%'}
+knitr::include_graphics("gedc2688.jpg")
+```
+
+While the famous Zingerman's Deli is a must when visiting Ann Arbor, Maize and Blue Delicatessen is a close runner up if you are looking for a great deli-style sandwiches, and it's only a 5 minute walk from Ross.
+
+We recommend the 'Maize ‘N Blue Awning' and the 'Triple Play Reuben' sandwiches but be prepared for leftovers.
+
+
