@@ -28,7 +28,7 @@ Link: https://www.myuofmhealth.org
 
 Appointments: You can self-schedule your appointment 24/7 by logging into link above and clicking on "visits" or calling 734-764-8320. 
 
-For any other questions check out their website: https://uhs.umich.edu/
+For any other questions check out their website: https://uhs.umich.edu
 
 ## Counseling and Psychological Services (CAPS) 
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '60%'}
