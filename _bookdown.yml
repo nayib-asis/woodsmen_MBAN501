@@ -2,5 +2,5 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-rmd_files: ["index.Rmd", "01-AboutUs.Rmd", "02-IntroToRossMBAn.Rmd", "03-RossAdministration.Rmd", "04-PlacestoStudy.Rmd", "05-RossNorms.Rmd", "06-ClassesAndProfessors.Rmd", "07-IntroductionToTheCDO.Rmd", "08-EatingAtRoss.Rmd", "09-RossWebsites.Rmd", "10-UHS.Rmd", "11-PreparingforProjects.Rmd", "12-Transportation.Rmd"]
+rmd_files: ["index.Rmd", "01-AboutUs.Rmd", "02-IntroToRossAndNorms.Rmd", "03-RossAdministration.Rmd", "04-PlacestoStudy.Rmd", "05-Classes.Rmd", "06-Professors.Rmd", "07-IntroductionToTheCDO.Rmd", "08-EatingAtRoss.Rmd", "09-RossWebsites.Rmd", "10-UHS.Rmd", "11-PreparingforProjects.Rmd", "12-Transportation.Rmd", "13-PreparingForWinter.rmd", "14-HowWeBuiltTheBook.Rmd"]
 output_dir: "docs"
