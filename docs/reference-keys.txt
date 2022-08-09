@@ -14,8 +14,9 @@ day-to-day
 class-presentations
 study-spaces
 ross-administration
-buildings
-professors-deans-and-program-directors
+ross-leadership-team
+oym-programs-office
+other-offices
 places-to-study
 booking-rooms
 interview-rooms
