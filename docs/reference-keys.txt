@@ -6,6 +6,13 @@ who-is-anthony-oliveri
 who-is-nayib-asis-elizalde
 who-is-runfan-yan
 intro-to-ross-mban
+classes
+format
+michigan-time
+dress-code
+day-to-day
+class-presentations
+study-spaces
 ross-administration
 buildings
 professors-deans-and-program-directors
@@ -14,7 +21,7 @@ booking-rooms
 interview-rooms
 checking-in-to-your-room
 libraries-around-campus.
-classes
+classes-1
 professors
 intro-to-the-cdo
 eating-at-ross
