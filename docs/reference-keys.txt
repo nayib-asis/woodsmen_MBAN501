@@ -24,6 +24,10 @@ checking-in-to-your-room
 libraries-around-campus.
 classes-1
 professors
+summer-term
+fall-a-term
+fall-b-term
+other-departments
 intro-to-the-cdo
 eating-at-ross
 seigle-cafe
