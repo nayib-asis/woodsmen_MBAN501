@@ -65,7 +65,7 @@ I am passionate about data and I hope to learn how to contribute significant ana
 
 I was born and raised in *Monclova, Mexico*, where I lived with my parents and older sister until I turned 15. I then moved to the United States for school and have been here since (9th year)! I currently live in *Ann Arbor, MI*.
 
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
 knitr::include_graphics("nayib_pic.jpeg")
 ```
 
