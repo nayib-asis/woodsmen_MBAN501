@@ -65,6 +65,10 @@ I am passionate about data and I hope to learn how to contribute significant ana
 
 I was born and raised in *Monclova, Mexico*, where I lived with my parents and older sister until I turned 15. I then moved to the United States for school and have been here since (9th year)! I currently live in *Ann Arbor, MI*.
 
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
+knitr::include_graphics("nayib_pic.jpeg")
+```
+
 I graduated from *Dartmouth College* in 2020 (via Zoom) where I majored in Political Science focusing on Latin American politics. While there, I was part of different admissions and orientation groups, a Paganucci Fellow at the Tuck School of Business, and part of the executive board of my fraternity.
 
 After college, I obtained my Master of Management with distinction from the *Ross School of Business* at the *University of Michigan*. I am currently pursuing a Master of Business Analytics also from Ross, and I served the program's student association as a Students Relations co-chair.
