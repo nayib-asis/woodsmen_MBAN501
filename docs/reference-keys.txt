@@ -45,6 +45,9 @@ uhs-and-campus-health-services
 university-health-services-uhs
 counseling-and-psychological-services-caps
 preparing-for-group-projects-and-presentations
+create-team-charter-together
+get-involved-and-build-the-relationship
+manage-your-time-properly
 transportation
 walking
 busses
@@ -52,4 +55,11 @@ parking
 biking
 preparing-for-winter
 preparing-for-winter-1
+temperature
+snow-and-ice
+jackets
+layering
+hats-and-scarves
+gloves
+snow-boots
 how-we-built-the-book
