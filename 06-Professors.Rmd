@@ -1,3 +1,34 @@
 
 # Professors 
+Here at Ross, we have over 200 active professors and lecturers who are leaders and best in their respective fields of teaching and research. Our faculty is broken down into the academic areas that they specialize in, including Accounting, Business Communication, Business Economics, Business Law, Finance, Management & Organizations, Marketing, Strategy, and Technology & Operations. Since the Master of Business Analytics is multidisciplinary, however, most of the classes you will be a part of are not specified by their department. To gain a better understanding of each class, get familiar with the professors (and their departments) you’ll see during your semesters on campus!
+
+## Summer Term
+
+**Sanjeev Kumar**, a professor in the Technology & Operations department, teaches courses in Artificial Intelligence, Machine Learning, and Advanced Analytics. A PhD holder from Ross, recipient of numerous teaching awards, and faculty member since 2015, Sanjeev teaches MBAn 501 as well as MBAn 555 and MBAn 556 in the fall B semester. **Jeff Domagala**, in addition to being the Sanger Center’s managing director, co-teaches 501 with Sanjeev as well.
+
+**Ali Hojjat**, a lecturer in the Technology & Operations department, has a doctorate of Operations and Decision Technologies from UC, Irvine. Ali teaches MBAn 551.
+
+**John Branch**, a professor at the undergraduate, MBA, and executive levels, specializes in marketing and international business. Additionally serving as the co-director of the Yaffe Digital Media Initiative, John teaches BA 500.
+
+A visiting professor from the School of Information, **Bobby Madamanchi** teaches MBAn 550. A doctor of Cancer Biology from Vanderbilt University, he has found his passion by helping teach Data Science.
+
+## Fall (A) Term
+
+Associated Professor of Technology and Operations, **Stefanus Jasin** specializes in predictive and prescriptive business analytics with a PhD in Statistics and Computational Mathematics from Stanford University. Stefanus teaches Fall A's MBAn 552.
+
+**Eric Schwartz** and **Anocha Aribarg**, both Associate Professors of Marketing, teach MBAn 553 in the Fall A semester. Eric, with a PhD in Marketing from the Wharton School, specializes in predicting customer behavior. Anocha, with a PhD in Marketing from the University of Wisconsin, specializes in fusing psychology and consumer behavior theories
+
+**Christopher Williams**, a Professor of Accounting, teaches MBAn 502. With an Accounting PhD from UNC Chapel Hill, Chris’ research focuses on the role of accounting in debt contracting, banking, and risk.
+
+**Lennart Baardman**, an Assistant Professor of Technology and Operations, teaches Fall A's MBAn 554.
+
+## Fall (B) Term
+
+**Yeshim Orhun**, Associate Professor of Marketing, teaches MBAn 557. A PhD holder in Business Administration from Cal Berkeley, she specializes in industrial organization and behavioral economics.
+
+**Achyuta Adhvaryu**, Associate Professor of Business Economics, and Uday Rajan, Professor of Finance, co-teach Fall B’s MBAn 503.
+
+## Other Departments
+
+During your winter semesters on campus, you will have the opportunity to take electives of your own choosing. These electives will mostly fall under the umbrellas of other academic departments. To take a look at the faculty of each department, check out the Michigan Ross faculty directory [here](https://michiganross.umich.edu/faculty-research/directory), and filter by the department you’re interested in!
 
