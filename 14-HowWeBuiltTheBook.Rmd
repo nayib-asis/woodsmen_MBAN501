@@ -1,5 +1,9 @@
 # How We Built the Book
 
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+knitr::include_graphics("TheWoodsmenPhoto.jpg")
+```
+
 * Documentation of Our Group Process
     + We created a clear team charter together: After reading the course materials related to the team charter and team vision, we jointly construct a team charter with a shared vision, clear roles and responsibilities, clear scope and milestones, and a team and personal goals. This team charter helps our team together to achieve our shared upon team goals more effectively.
     + We have Provided Continuous Feedback: After reading Proactive Feedback Seeking, our team chooses to set aside time after the meeting for anyone who wants to give feedback to others. Although there is not much feedback, some feedback is important to improve the efficiency of the team. 
