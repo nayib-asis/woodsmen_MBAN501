@@ -1,6 +1,6 @@
 # How We Built the Book
 
-```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '75%'}
 knitr::include_graphics("TheWoodsmenPhoto.jpg")
 ```
 

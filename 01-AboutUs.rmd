@@ -17,7 +17,9 @@ Music, Business, and Software all require
 
 In addition, these three things are absolutely **fundamental** to our daily lives. We all utilize software, listen to music, and participate in the uncontrollable world of business every day. My end goal? Live at this intersection to help deliver listeners more of the music they love!
 
-![](https://i0.wp.com/haulixdaily.com/wp-content/uploads/2019/05/Music-Business-Success.jpg?w=1920&ssl=1)
+```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '50%'}
+knitr::include_graphics("tomphoto.jpg")
+```
 
 ## Who is Alex Finci?
 
