@@ -8,41 +8,41 @@ Breakdown of curriculum for MBAn program. Subject to change.
 
 This course will provide an introduction to computer programming for business analytics applications using a suitable language like Python or R. The course will cover essential programming concepts such as object-oriented programming, control structures and functions with a focus on developing student skills for working with data. The course will further explore essential libraries and packages available for business analytics applications.
 
-Professor: Bobby Madamanchi
+**Professor:** Bobby Madamanchi
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 1 hour 30 min lectures
+**Classes per week:** two 1 hour 30 min lectures
 
 ### Advanced Spreadsheet - MBAN 551
 
 Spreadsheets are among the most widely used tools in business analytics. This course introduces students to advanced spreadsheet functionalities including financial, statistical, and time/date functions, goal seeking, data tables, and optimization. Students will learn how to develop macros and use powerful Add-ins that enhance spreadsheet capabilities.
 
-Professor: Ali Hojjat
+**Professor:** Ali Hojjat
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 1 hour 30 min lectures
+**Classes per week:** two 1 hour 30 min lectures
 
 ### Business Immersion - BA 500
 
 The course will equip students with the appropriate understanding, intuition, and language to understand the larger context of business study.
 
-Professor: John Branch
+**Professor:** John Branch
 
-Units: 2.25
+**Units:** 2.25
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ### Software Teams and Project Management - MBAN 501
 
 This course has two interrelated components: Team dynamics and managing software development projects; presented in an integrated fashion. Team dynamics content will include such topics as the emergence of behavioral norms in project teams, team decision making, potential sources of conflict, and managing conflict constructively. Project management content will include topics such as Lean Startup principles and Minimum Viable Products, development approaches (e.g. agile, traditional, waterfall), integrating software tools and dealing with the inevitable surprise changes to timing, scope and content.
 
-Professors: Jeff Domagala & Sanjeev Kumar
+**Professors:** Jeff Domagala & Sanjeev Kumar
 
-Units: 2.25
+**Units:** 2.25
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ## Fall Term A
 
@@ -50,41 +50,41 @@ Classes per week: two 2 hour 20 min lectures
 
 The course explores the use of accounting systems for both external communication (financial) and internal management (managerial). The course will introduce basic concepts used in the construction of corporate financial statements, how to understand those statements, and how to measure key indicators of corporate performance. On the managerial side, the course will cover how accounting information is used internally to measure and track the performance of a firm on its key success factors, and the use of those measures in management decision-making.
 
-Professor: Christopher Williams
+**Professor:** Christopher Williams
 
-Units: 2.25
+**Units:** 2.25
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ### Probability and Statistics - MBAN 552
 
 This course will cover fundamental topics in probability and random variables, statistical inference techniques including hypothesis testing, and linear regression.
 
-Professor: Stefanus Jasin
+**Professor:** Stefanus Jasin
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: one 3 hour lecture
+**Classes per week:** one 3 hour lecture
 
 ### Predictive Analytics - MBAN 553
 
 This course introduces students to a supervised learning approach to building predictive models to inform managerial decision making. The class will build on a foundation of linear regression and logistic regression and extend to machine learning approaches such as decision trees, support vector machines, naive Baynes and neural networks.
 
-Professors: Anocha Aribarg & Eric Schwartz
+**Professors:** Anocha Aribarg & Eric Schwartz
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ### Data Exploration and Visualization - MBAN 554
 
 This course will teach the essential tools in exploration and visualization of large data sets. After taking this course, students will be able to work with large datasets and form initial hypotheses based on data exploration and visualization, and effectively communicate their analysis using appropriate visuals.
 
-Professor: Lennart Baardman
+**Professor:** Lennart Baardman
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 2 hour 20 min lectures 
+**Classes per week:** two 2 hour 20 min lectures 
 
 ## Fall Term B
 
@@ -92,41 +92,41 @@ Classes per week: two 2 hour 20 min lectures
 
 Many managerial decisions are increasingly based on analysis using quantitative models. This course will introduce a systematic approach to the value and use of data to make informed decisions. The course will stress fundamental concepts that are important to understand when using data in decision-making; for example the value of historical data (when does the past inform the future, and when not), the value of information (when to gather more, or not), evaluating uncertainty, testing hypotheses with limited information, and understanding the dynamic nature of unfolding information and decision-making.
 
-Professors: Achyuta Adhvaryu & Uday Rajan
+**Professors:** Achyuta Adhvaryu & Uday Rajan
 
-Units: 2.25
+**Units:** 2.25
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ### Data Architecture and Acquisition - MBAN 555
 
 This course will focus on providing students with an understanding of the underlying IT infrastructure including Enterprise Systems and RDBMS Systems - and how to acquire data from those systems for exploration, cleaning and analysis using tools such as SQL and APIs. The course will help students understand the data generation, storage and processing ecosystem, the role of enterprise architecture and data architecture and their impact on decision making.
 
-Professor: Sanjeev Kumar
+**Professor:** Sanjeev Kumar
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 1 hour 30 min lectures
+**Classes per week:** two 1 hour 30 min lectures
 
 ### Unsupervised Learning -  MBAN 556
 
 This course provides a broad introduction to different unsupervised machine learning algorithms that have potential business applications. The topics covered in the course may include clustering algorithms such as K-means clustering and dimension reduction algorithms such as factor or principal component analysis.
 
-Professor: Sanjeev Kumar
+**Professor:** Sanjeev Kumar
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 1 hour 30 min lectures
+**Classes per week:** two 1 hour 30 min lectures
 
 ### Causal Inference through Experimentation - MBAN 557
 
 In making business decisions, managers often need to understand how their strategic and tactical decisions (e.g., a price change) can casually affect outcomes of interest (e.g., revenues). Observational data can help suggest a pattern of relationship between variables but such a relationship may not be casual. In this course, students will learn how to make causal inferences through experimentation. Students will acquire the skills to design controlled randomized experiments (e.g., A/B tests, field experiments) and properly analyze experimental data.
 
-Professor: A. Yesim Orhun
+**Professor:** A. Yesim Orhun
 
-Units: 1.5
+**Units:** 1.5
 
-Classes per week: two 2 hour 20 min lectures
+**Classes per week:** two 2 hour 20 min lectures
 
 ## Winter Term
 
@@ -138,18 +138,18 @@ In this course, you'll work in teams to find creative solutions to a pressing bu
 
  This course will focus on the theory and practice of the core optimization methodologies such as linear programming, integer programming, non-linear programming, heuristic models, and simulations. Example applications will be drawn from an array of business functions.
  
-Professor: TBA
+**Professor:** TBA
 
-Units: TBA
+**Units:** TBA
 
-Classes per week: TBA
+**Classes per week:** TBA
 
 ### Information Security, Privacy and Ethics
 
 The course will introduce fundamental concepts of network security, cyber security, potential threats/malware, and policies/practices to manage security threats; and discuss relevant technical aspects of information security such as authentication approaches, data encryption, digital signature, and public key.
 
-Professor: TBA
+**Professor:** TBA
 
-Units: TBA
+**Units:** TBA
 
-Classes per week: TBA
+**Classes per week:** TBA

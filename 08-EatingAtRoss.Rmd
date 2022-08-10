@@ -9,9 +9,10 @@ Great options for a meal or a snack within walking distance of Ross.
 knitr::include_graphics("siegel.jpg")
 ```
 
-Quick and convenient cafeteria style restaurant located in the Ross Wintergarden. Great option for a quick meal in between classes. 
+Convenient cafeteria style restaurant located in the Ross Wintergarden. Great option for a quick meal in between classes. 
 
 Meal Options: 
+
 * Delicious Grill Items
 * Weekly Grill Specials
 * Grab-N-Go Sandwiches and Parfaits
@@ -19,7 +20,7 @@ Meal Options:
 * Cold Drinks, Coffee and Fresh Fruit
 * Assorted Snacks
 
-Also have online ordering here: [http://michiganross.aramarkcafe.com] (http://michiganross.aramarkcafe.com)
+Also have online ordering here: http://michiganross.aramarkcafe.com
 
 ## Starbucks
 
@@ -38,7 +39,7 @@ knitr::include_graphics("Joes.png")
 
 New York style pizza brought to downtown Ann Arbor!  The secondary location of the famous New York pizza restaurant that is a perennial top 10 listing in restaurant guides and publications such as Time Out New York and New York Magazine. Offering pizza by the slice and by the pie. A five minute walk from Ross, Joe's is a great option for lunch or dinner. 
 
-Location: 1107 S University Ave, Ann Arbor, MI 48104
+**Location:** 1107 S University Ave, Ann Arbor, MI 48104
 
 ## Maize and Blue Delicatessen
 
@@ -48,9 +49,9 @@ knitr::include_graphics("gedc2688.jpg")
 
 While the famous Zingerman's Deli is a must when visiting Ann Arbor, Maize and Blue Delicatessen is a close runner up if you are looking for a great deli-style sandwiches, and it's only a 5 minute walk from Ross.
 
-We recommend the 'Sherry's Chicken Cutlet', 'Maize ‘N Blue Awning' and the 'Triple Play Reuben' sandwiches but be prepared for leftovers.
+We recommend the 'Sherry's Chicken Cutlet', the 'Maize ‘N Blue Awning' and the 'Triple Play Reuben' sandwiches but be prepared for leftovers.
 
-Location: 1329 S University Ave, Ann Arbor, MI 48104
+**Location:** 1329 S University Ave, Ann Arbor, MI 48104
 
 
 ## No Thai 
@@ -64,5 +65,5 @@ A favorite of students, No Thai is local spot that specializes in preparing nood
 
 Our personal favorites are the Sweet and Spicy Chicken and the Pad Kana.
 
-Location: 1300 S University Ave #3, Ann Arbor, MI 48104
+**Location:** 1300 S University Ave #3, Ann Arbor, MI 48104
 

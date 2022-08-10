@@ -22,8 +22,7 @@ booking-rooms
 interview-rooms
 checking-in-to-your-room
 libraries-around-campus.
-<<<<<<< HEAD
-classes
+classes-1
 summer-term
 introduction-to-data-programming---mban-550
 advanced-spreadsheet---mban-551
@@ -43,11 +42,8 @@ winter-term
 business-analytics-consulting-studio
 prescriptive-analytics
 information-security-privacy-and-ethics
-=======
-classes-1
->>>>>>> 44b849e686ca859712448a26fe12a0dc01795c94
 professors
-summer-term
+summer-term-1
 fall-a-term
 fall-b-term
 other-departments
