@@ -75,7 +75,6 @@ busses
 parking
 biking
 preparing-for-winter
-preparing-for-winter-1
 temperature
 snow-and-ice
 jackets

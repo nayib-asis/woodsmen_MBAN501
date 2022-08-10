@@ -50,6 +50,3 @@ Below is a map of biking lanes and streets around Ross. Streets that are colored
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
 knitr::include_graphics("biking_map1.png")
 ```
-
-## Preparing for Winter
-*i will do this later*
