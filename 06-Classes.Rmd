@@ -1,6 +1,5 @@
 
-# Classes and Professors 
-
+# Classes
 
 Typically classes are Monday-Thursday but may differ in the future. 
 
@@ -9,6 +8,9 @@ Typically classes are Monday-Thursday but may differ in the future.
 ### Introduction to Data Programming - MBAN 550
 
 This course will provide an introduction to computer programming for business analytics applications using a suitable language in Python. 
+
+
+Professor: 
 
 Units: 1.5
 
