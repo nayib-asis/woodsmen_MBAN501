@@ -6,14 +6,23 @@ who-is-anthony-oliveri
 who-is-nayib-asis-elizalde
 who-is-runfan-yan
 intro-to-ross-mban
+classes
+format
+michigan-time
+dress-code
+day-to-day
+class-presentations
+study-spaces
 ross-administration
-buildings
-professors-deans-and-program-directors
+ross-leadership-team
+oym-programs-office
+other-offices
 places-to-study
 booking-rooms
 interview-rooms
 checking-in-to-your-room
 libraries-around-campus.
+<<<<<<< HEAD
 classes
 summer-term
 introduction-to-data-programming---mban-550
@@ -34,7 +43,14 @@ winter-term
 business-analytics-consulting-studio
 prescriptive-analytics
 information-security-privacy-and-ethics
+=======
+classes-1
+>>>>>>> 44b849e686ca859712448a26fe12a0dc01795c94
 professors
+summer-term
+fall-a-term
+fall-b-term
+other-departments
 intro-to-the-cdo
 eating-at-ross
 seigle-cafe
@@ -54,6 +70,9 @@ uhs-and-campus-health-services
 university-health-services-uhs
 counseling-and-psychological-services-caps
 preparing-for-group-projects-and-presentations
+create-team-charter-together
+get-involved-and-build-the-relationship
+manage-your-time-properly
 transportation
 walking
 busses
@@ -61,4 +80,11 @@ parking
 biking
 preparing-for-winter
 preparing-for-winter-1
+temperature
+snow-and-ice
+jackets
+layering
+hats-and-scarves
+gloves
+snow-boots
 how-we-built-the-book
