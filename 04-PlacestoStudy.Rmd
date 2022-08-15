@@ -77,3 +77,5 @@ But if studying around others isn't your style, check out the Hatcher South Carr
 ```{r echo=FALSE, fig.cap="", fig.align='center', out.width = '80%'}
 knitr::include_graphics("stacks.png")
 ```
+
+While the Hatcher Graduate Library has what we think are some of the best study spots on campus, there are plenty more that we aren't able to cover in this book. For more study spaces around campus, check out this article from Campus Information [here!](https://campusinfo.umich.edu/article/study-spots)

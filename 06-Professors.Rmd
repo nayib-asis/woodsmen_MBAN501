@@ -6,11 +6,11 @@ Here at Ross, we have over 200 active professors and lecturers who are leaders a
 
 **Sanjeev Kumar**, a professor in the Technology & Operations department, teaches courses in Artificial Intelligence, Machine Learning, and Advanced Analytics. A PhD holder from Ross, recipient of numerous teaching awards, and faculty member since 2015, Sanjeev teaches MBAn 501 as well as MBAn 555 and MBAn 556 in the fall B semester. **Jeff Domagala**, in addition to being the Sanger Center’s managing director, co-teaches 501 with Sanjeev as well.
 
-**Ali Hojjat**, a lecturer in the Technology & Operations department, has a doctorate of Operations and Decision Technologies from UC, Irvine. Ali teaches MBAn 551.
+**Ali Hojjat**, a lecturer in the Technology & Operations department, has a PhD of Operations and Decision Technologies from UC, Irvine. Ali specializes in mathematical modeling and the design of efficient algorithms for solving large-scale optimization problems, and teaches MBAn 551.
 
-**John Branch**, a professor at the undergraduate, MBA, and executive levels, specializes in marketing and international business. Additionally serving as the co-director of the Yaffe Digital Media Initiative, John teaches BA 500.
+**John Branch**, a professor at the undergraduate, MBA, and executive levels, specializes in marketing and international business. Additionally serving as the co-director of the Yaffe Digital Media Initiative, and Doctor of Philosophy, Education, and Professional Studies, John teaches BA 500.
 
-A visiting professor from the School of Information, **Bobby Madamanchi** teaches MBAn 550. A doctor of Cancer Biology from Vanderbilt University, he has found his passion by helping teach Data Science.
+A visiting professor from the School of Information, **Bobby Madamanchi** teaches MBAn 550. A PhD of Cancer Biology from Vanderbilt University, he has found his passion by helping teach Data Science.
 
 ## Fall (A) Term
 
@@ -26,7 +26,7 @@ Associated Professor of Technology and Operations, **Stefanus Jasin** specialize
 
 **Yeshim Orhun**, Associate Professor of Marketing, teaches MBAn 557. A PhD holder in Business Administration from Cal Berkeley, she specializes in industrial organization and behavioral economics.
 
-**Achyuta Adhvaryu**, Associate Professor of Business Economics, and Uday Rajan, Professor of Finance, co-teach Fall B’s MBAn 503.
+**Achyuta Adhvaryu**, Associate Professor of Business Economics, and **Uday Rajan**, Professor of Finance, co-teach Fall B’s MBAn 503.
 
 ## Other Departments
 
